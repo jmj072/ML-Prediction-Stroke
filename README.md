@@ -8,8 +8,14 @@
 <br>
 
 - 파일 구성
-  - `Dataset.zip` : BRFSS 2015 Dataset (용량이 커서 압축파일로 uplaod함)
-  - `EDA_Modeling` : BRFSS 2015 Dataset으로 EDA, Modling 진행한 주피터 노트북
+  - `Dataset` : BRFSS 2015 Dataset (용량이 커서 압축파일로 uplaod함) [[Googld_Drive]](https://drive.google.com/drive/folders/1lE4dTk9JfI1p7V6zonN9LLMJxxfDsiJP?usp=sharing)
+  	- `2015.csv` : Behavioral Risk Factor Surveillance System (BRFSS) 2015 Dataset
+  	- `Stroke_BRFSS2015.csv` : 설문조사 항목 중, 뇌졸중과 관련될 것이라 생각되는 특성들만 골라 편집한 dataset
+
+
+  - `데이터_전처리.ipynb` : `2015.csv`에서 일부 특성들만 선택하고 전처리한 후,  `Stroke_BRFSS2015.csv`로 저장
+  - `EDA_Modeling.ipynb` : 편집한 BRFSS 2015 Dataset으로 EDA, Modling 진행한 주피터 노트북
+  
 
 <br>
 
