@@ -7,6 +7,12 @@
 
 <br>
 
+- 파일 구성
+  - `Dataset.zip` : BRFSS 2015 Dataset (용량이 커서 압축파일로 uplaod함)
+  - `EDA_Modeling` : BRFSS 2015 Dataset으로 EDA, Modling 진행한 주피터 노트북
+
+<br>
+
 # 뇌졸중의 위험인자 (Risk Factor)
 
 **1. 조절 가능한 위험인자**  
