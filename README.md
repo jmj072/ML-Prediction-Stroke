@@ -37,7 +37,7 @@
 # Dataset
 ![image](https://user-images.githubusercontent.com/77204538/166240368-67ba9349-7f2f-4606-92de-7d66e471f556.png)
 
-- Behavioral Risk Factor Surveillance System (BRFSS) 2015 Dataset
+- Behavioral Risk Factor Surveillance System (BRFSS) 2015 Dataset [(링크)](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
   - 미국 전역을 대상으로 행동 위험 요인을 조사하는 전화 설문조사
   - 성인들의 만성질환여부, 흡연, 신체활동, 과일/야채 섭취량 등 다양한 생활 패턴을 조사
   - 설문조사를 거부하거나 '모른다' 라고 답한 경우 제외
