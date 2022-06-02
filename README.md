@@ -4,7 +4,7 @@
 - 뇌졸중이 한번 발병하면 지속적인 케어가 필요하므로, 가정적 또는 사회적으로 손실이 발생함
 - 개인들이 가지고 있는 생활습관, 성별, 나이 등을 이용해 뇌졸중 발병 가능성을 예측 => ***질환으로 인한 여러 손실을 미리 방지하고 대비가 가능***
 - 뇌졸중의 위험인자와 부합하는 특성을 사용해, 성인들의 뇌졸중 발병 가능성을 예측하고자 함
-- [[PPT File 링크]](https://drive.google.com/file/d/1h63JIlSbAJNnv0xOYYF4DaSQBdq3t2BP/view?usp=sharing)
+- [[프로젝트 상세] 발표 PPT File 링크](https://drive.google.com/file/d/1h63JIlSbAJNnv0xOYYF4DaSQBdq3t2BP/view?usp=sharing)
 
 <br>
 
@@ -53,6 +53,7 @@
 - Behavioral Risk Factor Surveillance System (BRFSS) 2015 Dataset [(링크)](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system)
   - 미국 전역을 대상으로 행동 위험 요인을 조사하는 전화 설문조사
   - 성인들의 만성질환여부, 흡연, 신체활동, 과일/야채 섭취량 등 다양한 생활 패턴을 조사
+  - 다양한 생활패턴이 뇌졸중 발병에 어떠한 영향을 끼치는지 살펴보기 위하여 해당 dataset을 선택하였음
   - 설문조사 항목 중, 뇌졸중과 관련된 특성만을 골라 편집함 [(참고링크)](https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook/notebook)
   - 설문조사를 거부하거나 '모른다' 라고 답한 경우 제외
 
